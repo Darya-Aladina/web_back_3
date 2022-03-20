@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display+SC:wght@700&display=swap');
+html {
+    height: 100%; /* Высота веб-страницы */
+    width: 100%;
+    background: #000 url(light_2.gif) round;
+    color: azure;
+}
+body
+{
+    font-family: 'Playfair Display SC', serif;
+}
+h2
+{
+    text-indent: 653px;
+    align-items: center;
+    list-style-type: none;
+    border: 40px solid #cab6ff;
+    padding: 10px 10px; 
+    background-color: #9e86e2;
+    border-bottom: 40px solid #685a8f;
+}
+.fun
+{
+    display: flex;
+}
+form
+{
+    text-align: center;
+    flex-direction: row;
+}
